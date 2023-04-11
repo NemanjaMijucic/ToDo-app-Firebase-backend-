@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "//ToDo-app-Firebase-backend-/static/css/main.34420287.css",
-    "main.js": "//ToDo-app-Firebase-backend-/static/js/main.ae7f66bd.js",
-    "index.html": "//ToDo-app-Firebase-backend-/index.html",
-    "main.34420287.css.map": "//ToDo-app-Firebase-backend-/static/css/main.34420287.css.map",
-    "main.ae7f66bd.js.map": "//ToDo-app-Firebase-backend-/static/js/main.ae7f66bd.js.map"
+    "main.css": "/ToDo-app-Firebase-backend-/static/css/main.34420287.css",
+    "main.js": "/ToDo-app-Firebase-backend-/static/js/main.c4cd820b.js",
+    "index.html": "/ToDo-app-Firebase-backend-/index.html",
+    "main.34420287.css.map": "/ToDo-app-Firebase-backend-/static/css/main.34420287.css.map",
+    "main.c4cd820b.js.map": "/ToDo-app-Firebase-backend-/static/js/main.c4cd820b.js.map"
   },
   "entrypoints": [
     "static/css/main.34420287.css",
-    "static/js/main.ae7f66bd.js"
+    "static/js/main.c4cd820b.js"
   ]
 }
